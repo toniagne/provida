@@ -23,8 +23,11 @@ Configurar .envirement
 ```
 composer install
 ```
+Migração da base de dados
+```
 php artisan migrate
 ```
+
 php artisan serve
 ```
 
